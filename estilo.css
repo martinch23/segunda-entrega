@@ -1,0 +1,38 @@
+header{background-image: url(https://i.pinimg.com/originals/9e/6e/3d/9e6e3d27cd762b6a9956b08a7b1a1944.jpg)
+    ;background-size: 200px; background-position: center}
+   
+body{background-color: black;}
+
+.container{background-color: black;}
+
+.titulo{font-family:'Times New Roman', Times, serif;
+        color: white;
+        font-size: 6rem;
+        text-align: center;
+        font-weight: bold;}
+
+.nav-link{color: rgb(241, 186, 3);
+                 font-family:Arial, Helvetica, sans-serif;
+                 font-size:1rem ;}
+.nav-link:hover{ background-color: black;
+                        color:white;}
+
+
+.giras{color: rgb(241, 186, 3);
+       font-family:Arial, Helvetica, sans-serif;
+       text-align: center;}
+
+.girae{color: rgb(241, 186, 3);
+      font-family:Arial, Helvetica, sans-serif;
+      text-align: center;}
+    
+footer{background-color: black;
+    color:rgb(241, 186, 3);}
+
+
+
+.container{color: rgb(241, 186, 3);
+    text-align:center;}
+    form{color: wheat;}
+
+  
